@@ -1,10 +1,10 @@
-### Hola, mi nombre es Jorge Roncal
+# Hola, mi nombre es Jorge Roncal
 
 Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera profesional a la Calidad del Software. En la actualidad, me encuentro en formación continua en las técnicas y tecnologías relacionadas con automatización de test.
 
 ## Mis estadísticas en GitHub son:
 
-[![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgeeerrl)](https://github.com/Jorgeeerrl/github-readme-stats)
+[![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgeeerrl)]
 
 
 <!---
