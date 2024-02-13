@@ -6,7 +6,7 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 
 [![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgeeerrl&theme=radical)]
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl)](https://github.com/Jorgeeerrl/github-readme-stats)
 <!---
 Jorgeeerrl/Jorgeeerrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
