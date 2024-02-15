@@ -4,7 +4,7 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 
 ## Mis estadísticas en GitHub son
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgerrrl&theme=dracula)
+![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgerrrl&theme=dracula)
 ![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl)
 
 <!---
