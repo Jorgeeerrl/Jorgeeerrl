@@ -2,12 +2,19 @@
 
 Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera profesional a la Calidad del Software y la implementación de las nuevas tecnologías en el Testing. En la actualidad, me encuentro en formación continua tanto en lenguajes de programación como en las técnicas y tecnologías relacionadas con el QA Testing y la automatización de test.
 
+&nbsp;
 ## Mis estadísticas en GitHub son
 
 ![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgeeerrl&show_icons=true&theme=gruvbox)
 
 ![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl&theme=gruvbox)
 
+
+
+
+<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ISTQB%20Logo.png" width="450" />
+
+&nbsp;&nbsp;&nbsp;
 
 ## Herramientas que utilizo:
 
@@ -18,6 +25,9 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 <img align="left" src="https://github.com/Jorgeeerrl/z-icons/blob/master/svg/python.svg" width="30" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="30" height="30"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" />
+
+&nbsp;
+
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="30" height="30"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30" height="30"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="30" height="30"/>
