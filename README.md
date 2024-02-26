@@ -10,9 +10,9 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 ![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl&theme=gruvbox)
 
 
-&nbsp;&nbsp;&nbsp;
 
-<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ISTQB%20Logo.png" />
+
+<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ISTQB%20Logo.png" width="450" />
 
 &nbsp;&nbsp;&nbsp;
 
