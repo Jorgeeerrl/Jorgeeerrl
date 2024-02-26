@@ -6,10 +6,12 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 
 ![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgeeerrl&show_icons=true&theme=gruvbox)
 
-![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl)
+![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl&theme=gruvbox)
 
 
 ## Herramientas que utilizo:
+
+
 
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
