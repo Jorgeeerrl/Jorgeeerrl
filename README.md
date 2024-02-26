@@ -36,6 +36,7 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="30" height="30"/>
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/selenium-ide128.png" width="30" height="30"/>
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ChatGPT_logo.svg" width="30" height="30"/>
+<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/Gitbash_logo.png" width="30" height="30"/>
 
 
 
