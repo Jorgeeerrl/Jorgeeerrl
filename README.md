@@ -2,6 +2,7 @@
 
 Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera profesional a la Calidad del Software y la implementación de las nuevas tecnologías en el Testing. En la actualidad, me encuentro en formación continua tanto en lenguajes de programación como en las técnicas y tecnologías relacionadas con el QA Testing y la automatización de test.
 
+&nbsp;
 ## Mis estadísticas en GitHub son
 
 ![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgeeerrl&show_icons=true&theme=gruvbox)
@@ -9,9 +10,15 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 ![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl&theme=gruvbox)
 
 
+&nbsp;&nbsp;&nbsp;
+
+<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ISTQB%20Logo.png" />
+
+&nbsp;&nbsp;&nbsp;
+
 ## Herramientas que utilizo:
 
-
+&nbsp;
 
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
