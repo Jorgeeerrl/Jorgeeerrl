@@ -5,6 +5,7 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 ## Mis estadísticas en GitHub son
 
 ![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgeeerrl&show_icons=true&theme=gruvbox)
+
 ![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl)
 
 
