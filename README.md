@@ -26,6 +26,7 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="30" height="30"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="30" height="30"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="30" height="30"/>
 
 &nbsp;
 
@@ -33,11 +34,12 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="30" height="30"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" height="30"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="30" height="30"/>
+<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/selenium-ide128.png" width="30" height="30"/>
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ChatGPT_logo.svg" width="30" height="30"/>
 
 
-<br />
 
+<br />
 
 
 
