@@ -22,7 +22,7 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" title="Git" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" title="GitHub" />
-<img align="left" src="https://github.com/Jorgeeerrl/z-icons/blob/master/svg/python.svg" width="30" height="30" title="Python" />
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg)" width="30" height="30" title="Python" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="30" height="30" title="Azure DevOps" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="30" height="30" title="SonarQube" />
