@@ -21,26 +21,27 @@ de la IA en el Testing.
 
 
 
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" title="Git" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" title="GitHub" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30" height="30" title="Python" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="30" height="30" title="Azure DevOps" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="30" height="30" title="SonarQube" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="30" height="30" title="Markdown" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" title="CSS"  />
+<img align="right" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" title="Git" />
+<img align="right" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" title="GitHub" />
+<img align="right" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30" height="30" title="Python" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="30" height="30" title="Azure DevOps" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="30" height="30" title="SonarQube" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="30" height="30" title="Markdown" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="25" title="CSS"  />
           
 
 &nbsp;
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30" height="30" title="Cypress" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="30" height="30" title="Pytest" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" height="30" title="Pycharm"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="30" height="30" title="Selenium Webdriver" />
-<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/selenium-ide128.png" width="30" height="30" title="Selenium IDE" />
-<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ChatGPT_logo.svg" width="30" height="30" title="ChatGPT" />
-<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/Gitbash_logo.png" width="30" height="30" title="GitBash" />
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" title="HTML" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30" height="30" title="Cypress" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="30" height="30" title="Pytest" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" height="30" title="Pycharm"/>
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="30" height="30" title="Selenium Webdriver" />
+<img align="right" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/selenium-ide128.png" width="30" height="30" title="Selenium IDE" />
+<img align="right" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ChatGPT_logo.svg" width="30" height="30" title="ChatGPT" />
+<img align="right" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/Gitbash_logo.png" width="30" height="30" title="GitBash" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30" title="HTML" />
+
           
 
 
