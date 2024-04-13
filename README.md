@@ -28,6 +28,8 @@ de la IA en el Testing.
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="30" height="30" title="SonarQube" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="30" height="30" title="Markdown" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" title="CSS"  />
+          
 
 &nbsp;
 
@@ -38,6 +40,8 @@ de la IA en el Testing.
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/selenium-ide128.png" width="30" height="30" title="Selenium IDE" />
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ChatGPT_logo.svg" width="30" height="30" title="ChatGPT" />
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/Gitbash_logo.png" width="30" height="30" title="GitBash" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" title="HTML" />
+          
 
 
 
