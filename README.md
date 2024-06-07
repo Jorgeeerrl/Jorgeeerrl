@@ -1,17 +1,17 @@
 # Hola, mi nombre es Jorge Roncal
 
-Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera profesional a la Calidad del Software y la implementación de las nuevas tecnologías en el Testing. En la actualidad, me encuentro en formación continua tanto en lenguajes de programación como en las técnicas y tecnologías relacionadas con el QA Testing y la automatización de test. Me interesa particularmente la aplicación
-de la IA en el Testing.
+Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera profesional a la Calidad del Software y la implementación de las nuevas tecnologías en el Testing. En la actualidad, me encuentro en formación continua tanto en lenguajes de programación como en las técnicas y tecnologías relacionadas con el QA Testing y la automatización de test. Me interesa particularmente la aplicación de la IA en el Testing.
 
 &nbsp;
+
 ## Mis estadísticas en GitHub:
 
-![Jorgeeerrl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgeeerrl&show_icons=true&theme=gruvbox)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorgeeerrl&show_icons=true&theme=gruvbox" alt="Jorgeeerrl's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl&theme=gruvbox" alt="Lenguajes usados" />
+</div>
 
-![Lenguajes usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeerrl&theme=gruvbox)
-
-
-
+&nbsp;
 
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ISTQB%20Logo.png" width="450" />
 
@@ -19,16 +19,12 @@ de la IA en el Testing.
 
 ## Herramientas que utilizo:
 
-
-
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" title="Git" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" title="GitHub" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30" height="30" title="Python" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="30" height="30" title="Azure DevOps" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" title="VS Code" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="30" height="30" title="SonarQube" />
-
-          
 
 &nbsp;
 
@@ -39,7 +35,6 @@ de la IA en el Testing.
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/selenium-ide128.png" width="30" height="30" title="Selenium IDE" />
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ChatGPT_logo.svg" width="30" height="30" title="ChatGPT" />
 
-
 &nbsp;         
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" title="HTML" />
@@ -47,9 +42,7 @@ de la IA en el Testing.
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/Gitbash_logo.png" width="30" height="30" title="GitBash" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="30" height="30" title="Markdown" />
 
-
 <br />
-
 
 
           
