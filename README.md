@@ -1,6 +1,6 @@
 # Hola, mi nombre es Jorge Roncal
 
-Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera profesional a la Calidad del Software y la implementación de las nuevas tecnologías en el Testing. En la actualidad, me encuentro en formación continua tanto en lenguajes de programación como en las técnicas y tecnologías relacionadas con el QA Testing y la automatización de test. Me interesa particularmente la aplicación de la IA en el Testing.
+Soy un apasionado de las TIC reciclado para orientar mi carrera profesional a la Calidad del Software y la implementación de las nuevas tecnologías en el Testing. Siempre me encuentro en formación continua tanto en lenguajes de programación como en las técnicas y tecnologías relacionadas con el QA Testing y la automatización de test.
 
 &nbsp;
 
@@ -28,12 +28,13 @@ Soy un apasionado de las TIC en proceso de reciclaje para orientar mi carrera pr
 
 &nbsp;
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="30" height="30" title="Cypress" />
+<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ChatGPT_logo.svg" width="30" height="30" title="ChatGPT" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="30" height="30" title="Pytest" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" height="30" title="Pycharm"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="30" height="30" title="Selenium Webdriver" />
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/selenium-ide128.png" width="30" height="30" title="Selenium IDE" />
-<img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/ChatGPT_logo.svg" width="30" height="30" title="ChatGPT" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" height="30" title="Postman" />
+          
 
 &nbsp;         
 
