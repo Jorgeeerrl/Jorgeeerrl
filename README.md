@@ -42,6 +42,7 @@ Soy un apasionado de las TIC reciclado para orientar mi carrera profesional a la
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" title="CSS"  />
 <img align="left" src="https://github.com/Jorgeeerrl/Jorgeeerrl/blob/main/Gitbash_logo.png" width="30" height="30" title="GitBash" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="30" height="30" title="Markdown" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="30" height="30" title="Jenkins" />
 
 <br />
 
